@@ -1,6 +1,6 @@
 # SkillshareDownloader
 
-# |Help|
+## |Help|
 
 1.Log-in to skillshare in your browser and open up the developer console. (cmd-shift-c for chrome on mac)
 
